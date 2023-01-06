@@ -1,0 +1,4 @@
+int:a:1
+boolean:b:true
+char:c:`
+double:e:4.78
